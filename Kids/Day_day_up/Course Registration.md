@@ -1,3 +1,5 @@
+[Community Presentation On Course Levels](https://github.com/stemgene/A-B_District_Info/blob/master/Files_and_images/Community%20Presentation%20On%20Course%20Levels%20-%20March%207.pdf)
+
 [7th to 8th Transition](https://rjgrey.abschools.org/cms/One.aspx?portalId=222182&pageId=27417294)
 
 高中的课程设制以每年的program of studies为准，2023-2024的在：https://docs.google.com/document/u/0/d/1NRq8lPKhniPV9Ee_WMQ8fXa-vT3qWONWPDkqzGhkEmU/mobilebasic。
