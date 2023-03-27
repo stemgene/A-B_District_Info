@@ -1,8 +1,10 @@
 [7th to 8th Transition](https://rjgrey.abschools.org/cms/One.aspx?portalId=222182&pageId=27417294)
 
-高中的课程设制以每年的program of studies为准，2023-2024的在：https://docs.google.com/document/u/0/d/1NRq8lPKhniPV9Ee_WMQ8fXa-vT3qWONWPDkqzGhkEmU/mobilebasic。
+高中的课程设制以每年的program of studies为准，2023-2024的在：https://docs.google.com/document/u/0/d/1NRq8lPKhniPV9Ee_WMQ8fXa-vT3qWONWPDkqzGhkEmU/mobilebasic。[视频](https://youtu.be/whFQ75Qp_VU)
 
-Eileen Zhang 关于选课的讲座
+[Eileen Zhang 关于高中课程和学习资源的讲座](https://stemgene-my.sharepoint.com/:w:/g/personal/stemgene_stemgene_onmicrosoft_com/EUJtigPPrmBOksmOGi91qaUBHsBiGetGd9IG_wQ-kcjekw?e=o7UZoU)
+
+## Course Registration
 
 ### 问题1：2023年课程改革
 
@@ -22,9 +24,13 @@ Eileen Zhang 关于选课的讲座
 
 如果选了summer PE, 正常学期里空下来的PE block 是不是也不可以占用去选其他的课呀？说是只能用于study or respite？是的，不能选别的课。很久以前可以选课，但是后来改革了就不可以，同时数学不能跳级也是那时改革的，AB感觉年年都在改
 
+“acton community Ed 在summer 时提供一些初高中课程”
+
 ### 问题3：关于拉丁语
 
 即将上九年级的孩子选拉丁语言的要小心，一开始说10年级会有honor课，可是没有。所以不一小心就被学校坑了，两年都是被AE，然后11年级之前承诺的honor也没有，直接就不算level了，就跟GYM课一样。九年级的时候所有语言课好像都是没有H的，但是十年级法语和西班牙语应该都有H了。选拉丁在gpa是吃亏的 而且学校就一个老师教
+
+拉丁本来应该是挺好的选择，但是学校不提供Honor课，对GPA不友好。我们上了2年的AE，11年级居然说是unleveled, 直接就不算weighted GPA。
 
 ### 问题4：选不选中文课与world language
 
@@ -43,9 +49,11 @@ AP的程度是这样的，举一个简单的例子：给你五分钟思考，然
 
 跟大家分享一下，我以前在concord high教过中文，也教AP。九年级开始的课都是从很基础的日常生活用语开始学的，比如爱好，交通工具等，到十年级就有交友社会等话题讨论内容。AP我感觉还是需要下功夫才能考5分的。八大话题：社会环境，科技发展，文化交流等等。词汇和语法都是书面语级别，即使在家说中文的孩子也需要有大量阅读写作才能得高分。
 
-### 问题6： 其他课
+### 问题6： 选修课
 
 我顺便讲一下去年选艺术课跳的坑。毕业要求是修够2.5学分。你家孩子要是在band，chorus，stage这些里面那就完全没有问题了。如果像我儿子这样纯凑学分的，建议2.5学分一次选满，一劳永逸。很多艺术类选修都是2.5的。我儿子十年级非要选graphic design，是一学期不是一学年的，只有1.25，当时不知道graphics design可以1和2一起选，一个在上半年一个在下半年，所以我们现在还差1.25学分。现在孩子十一年级又看上woodworking了，这是2.5学分的，所以我们是两年才能完成艺术课要求，还多选了学分。
+
+选乐队到11年级就得面对学分不够花，没法选其它ap课的烦恼，艺术类的有requirement，修够了的话，elective空着也没啥，五门主课已经够多作业了，bio还带lab的
 
 ### 问题7：AP
 
@@ -78,7 +86,66 @@ AP考试分各个学科，满分五分，考得3或4分(看学校要求)即可�
 
 “家长强烈要求是可以override的，尤其孩子老师都提过，可以在信里或者notes里提一下。” “override一般都能成，我们家孩子以前就有门课overwrite成，一般不会有问题，只是孩子一定要能跟上课”
 
+"开始照着最高level选基本不会有问题， 如果孩子不适应可以向低调， 比从低level调到高level容易多了"
+
 ### 问题11: 关于课程placement. My student is in Math 8 and has been recommended for Algebra I AE. Is there a way for them to take Geometry in grade 9 instead?
 
 No. The Math 8 curriculum does not cover the prerequisite content and skills of Algebra necessary for success in a Geometry class. Students in Math 8 will take Geometry their sophomore year. Students in Math 8 may not take a summer school Algebra class to advance to Geometry due to the district's wellness / "no preview" policy. All students must successfully complete a year of Algebra during the typical school year before taking Geometry.
 
+### 问题12：课程成绩对application的影响
+
+College admission only look at HS transcripts. They generally want to see students to take as many high level (most challenging) courses available to them (I.e., offered by the high school). In addition to HS grades and standardized test scores (SAT/ACT), they want to see student’s’ extracurricular activities (sports, clubs, competitions, community services).
+
+### 问题13：课程难度的主观评估
+
+9年级geometry honor 前面几次考试比较难 主要是劝退跟不上的。只要前面能坚持下来 问题不大。
+
+跟前面家长建议的差不多 能上难的 只要能坚持下来，哪怕中不溜 尽量选难的。
+
+## Useful Info about Study
+
+### 问题1： 阅读的重要性
+
+同意英文的阅读写作很重要. 阅读也是写作的基础. 小学的语文建议从抓养成良好的阅读习惯开始，这个过程爸妈陪着会很有帮助，读多了就会慢慢喜欢，因为程度速度都跟上来了，一旦过了这个坎，喜欢上了阅读孩子就会把你给甩了不要你帮了。我的经验是阅读提升对后面的学习有全面质的帮助，因为看得懂，读的快. 以前图书馆有按照年级分的建议书单. 现在孩子的资讯太多，但不管来源是什么，只要读进去都可以. 有一定的基础就算有gap也赶的上的，
+
+阅读没有抓好的，到了高中就很尴尬了。因为，1，没有时间补习。学校的课业已经很重了。2，孩子很难听你的安排了。3，其实每天都在用到阅读的能力，每天都在被阅读水平局限吊打。特别是文科作业，这看个书就几十页，写个报告写个分析洋洋洒洒
+
+**低龄启蒙**
+
+K-4年级怎么学，最简单家长每天晚上陪着孩子数学做半小时，英语读个半小时。亲子共读，你这样也知道孩子进度了，孩子有不好的学习习惯你也能随时纠正了，比如趴着毁眼睛啊，握笔姿势不对啊，孩子没耐心啊，你陪着。这些你都能发现。
+
+**初高中阅读、写作经验**
+
+我们孩子说过，你要知道老师到底想干啥，想要你干啥，我们从五年级学到8年级结束，每周一堂课，暑假也每周一堂课（因为疫情，后来网课），我每个学期结束都问孩子，这个课对你有没有用？孩子说，有用。我问，这个课跟你们学校老师要求的路数一样吗？（学了半天总要让学校的作业做好啊），她说，路数对的。我再灵魂第三问，你下学期还要学吗？她说，需要。一直到八年级结束，她说，可以了，收工。还有一点提醒年轻的家长，虚构小说跟非虚构阅读，一定要齐头并进，千万不能瘸腿。但是其实90%的孩子都会只喜欢一类。这个很正常。思维偏文跟偏理。但是到了高年级，这两种阅读都会需要用到。
+
+有一个很朴素的道理，学英文，你要写。一定要练习写。学数学，你要有一定量的做题练习。大部分人，是你多学一点，就多灵一点。要持之以恒地练习。不管是学数学，还是K-4年级左右的阅读练习。但是学习的本质是不变的，家长最重要的是把握好，1，英文阅读能力，写作能力，2，基本的数学运算能力。（四年级以前）不管你的孩子要走数学竞赛道路，还是家长内心想，我们孩子就是文科娃，我们只要跟上学校进度就好。这些都是必须的。写作课要建立在阅读量足够大的基础上。太小开始上，我觉得意义不大。我的建议是，先抓阅读，然后再在老师的带领下，学分析，学写作。
+
+阅读我觉得是三个阶段，1，自由阅读，3，4岁开始，家长就可以带孩子自由阅读，图书馆是非常好的资源。2，带目的地阅读，就是说你看完了能说出个因果，前后，好坏，事实还是观点，这就是批判性阅读的启蒙阶段了。FLP的课后班课程里，孩子们都要做这部分的学习。然后才是第三步，上课，在老师的带领下，学分析，学写作。这个第二步，是需要有一定的外力（比如说同伴压力，比如说一个每日流程的约束）来完成的。家长自己买书扔给孩子做的，很多最后都是不了了之了。
+
+写作对很多孩子来说，是很痛苦的事情，特别是偏理的孩子。你叫他写日记，写完无反馈，你也不会改，你也不知道要怎么改，这种要求，基本最后是不了了之。所以需要循序渐进，先从回答问题开始，阅读理解，回答问题，先把一个一个细节的问题回答明白了，然后再开始慢慢的归纳，分析，改写
+
+给大家一个家庭作业改革前的reference：一个年级多十分钟，I.e. 一年级功课十分钟，二年级二十分钟，到六年级就不超过六十分钟,慢慢循序渐进的把习惯养成.
+
+千万不要觉得，我买了书=我就做完了我作为父母的责任=孩子就应该学习了。日积月累的陪伴，监督，反馈，才是最重要的。
+
+## High School
+
+### 问题1： 时间分配
+
+尤其高三高四。不是功課多，是放學後活動多，要占去3-4小時。高中的课外活动太花时间了，BAND，游泳，DEBATE等
+
+到高中课外活动要深不要宽. 活动太多一来时间不够，二来对申请没帮助.小学是explore课外活动最好的阶段，慢慢找到孩子喜欢的，慢慢进阶，到高中就专注，最多一个和艺术音乐相关和一个sports.
+
+### 问题2： 升学顾问规划那种几年级开始合适呢？ 
+
+9年级
+
+## 问题2： 父母的心态和孩子的情绪
+
+高中孩子还有很重要的一个问题，要开心。。。乐观的看待失败， growth mindset. 
+
+“人生中最青春年华的四年，fit 不是学校的ranking, fit 是你在哪儿学不学的到你想学的东西，有没有资源让你explore, 交不交的到好朋友，在那个环境能不能适应等等”
+
+小朋友包括高中生的不定性因素太多了。小伙伴的影响，自己的努力，家长的鼓舞，老师的教育四者密不可分。找一群志趣相投的小伙伴一起学习一起做事，往往事半功倍。
+
+最近慢慢体会到其实家长根本没什么资格去居高临下的“教育”孩子，我们只能引导孩子，和他们一起成长，遇到困难讨论，且尊重他们的感受，这样孩子才愿意跟你说话，才有交流的基础。否则一切强迫产生的结果都是暂时的，都不会持久

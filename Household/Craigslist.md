@@ -6,10 +6,11 @@
 
 ## Healthcare
 
-### Dental
+### 专科医院
 
 | 类别 | 名称 | 联系方式  | 链接 |
 |------|-----|--------|------|
+| 皮肤|    |      |               |
 | Dental| Bell Dental   | Dr. Li Zhong 978-429 8348       | www.belldentalma.com               |
 | Dental| Family & cOSmetic Dentistry   | Dr. Law, 77 Great Rd STE 212, (978)266-9888       | 
 | Dental|Care smile dental   | Dr. Dai, 1732 Main St, Concord|                |

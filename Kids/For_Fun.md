@@ -5,6 +5,10 @@
 | Volleyball|Cmass | https://www.cmassjuniors.org/  | | 
 | Volleyball|PHD Volleyball | https://www.phdvolleyball.com/content/camps/clinics | | 
 | Volleyball|smash Volleyball | https://www.smashvolleyball.com/ | | 
+| Swimming|swymfit curti教练 | | | 
+| Swimming|westfit 有俄罗斯教练| | | 
+
+
 
 
 
