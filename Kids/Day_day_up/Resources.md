@@ -50,3 +50,21 @@ audible
 
 提高词汇量的wordly wise 3000。要买纸质书+答案书。粉色这本是单独的。黄色是书，白色是答案。第四版比第三版简单。以前的第二版更难。一般从自己孩子所在年级买起就好，比如你的孩子4年级，你就从4年级开始买起开始做。
 
+### Physics
+
+AP Physics 1: Algebra-based
+AP Physics 2: Algebra-based
+AP Physics C: Mechanics
+AP Physics C: Electricity & Magnetism
+
+AP物理考试被分成四个等级，分别是AP Physics 1: Algebra-based、AP Physics 2: Algebra-based、AP Physics C: Mechanics和AP Physics C: Electricity & Magnetism。考生需要根据自己的学习内容和个人兴趣选择其中的一门或多门进行考试。
+
+AP Physics 1和AP Physics 2是代数基础物理学课程，AP Physics C: Mechanics和AP Physics C: Electricity & Magnetism是微积分物理学课程。因此，AP Physics 1和AP Physics 2的难度相对较低，而AP Physics C的难度相对较高。
+
+AP Physics 1和AP Physics 2的考试内容比较广泛，覆盖力学、热学、光学和原子物理等方面，但难度不高。而AP Physics C的考试内容则主要是力学和电磁学，涉及的数学知识更为复杂和深入，考试难度更高。
+
+考生在选择参加哪些AP物理考试时，可以考虑以下因素：
+
+学习内容和兴趣：学生可以根据自己的学习内容和兴趣来选择参加哪些AP物理考试。如果学生对力学和电磁学比较感兴趣，可以选择AP Physics C: Mechanics和AP Physics C: Electricity & Magnetism；如果学生对代数基础物理学比较感兴趣，可以选择AP Physics 1和AP Physics 2。
+
+学习计划和目标：学生可以根据自己的学习计划和目标来选择参加哪些AP物理考试。如果学生希望在高中获得大学物理学课程的学习和考试经验，可以选择参加多门AP物理考试。如果学生只是希望获取一些物理学知识和技能，可以选择参加一门或两门AP物理考试。
