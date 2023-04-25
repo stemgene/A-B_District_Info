@@ -1,4 +1,5 @@
 [AB Parents Portal](https://powerschool.abschools.org/public/home.html)
+[School and District Profiles](https://profiles.doe.mass.edu/statereport/ap.aspx)
 
 ### Daycare
 
