@@ -68,3 +68,7 @@ AP Physics 1和AP Physics 2的考试内容比较广泛，覆盖力学、热学�
 学习内容和兴趣：学生可以根据自己的学习内容和兴趣来选择参加哪些AP物理考试。如果学生对力学和电磁学比较感兴趣，可以选择AP Physics C: Mechanics和AP Physics C: Electricity & Magnetism；如果学生对代数基础物理学比较感兴趣，可以选择AP Physics 1和AP Physics 2。
 
 学习计划和目标：学生可以根据自己的学习计划和目标来选择参加哪些AP物理考试。如果学生希望在高中获得大学物理学课程的学习和考试经验，可以选择参加多门AP物理考试。如果学生只是希望获取一些物理学知识和技能，可以选择参加一门或两门AP物理考试。
+
+### Chess
+
+[Chess Inspire](www.chessinspire.org/classes)
