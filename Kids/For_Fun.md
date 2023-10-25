@@ -36,4 +36,6 @@
 
 一个半小时以内：Ski Ward, Wachusett, Pats Peak, Crotched Mountain
 
-两个半小时：Sunapee, Loon, Waterville Valley, Ragged Mountain, Gunstock
+两个半小时：Sunapee, Loon, Waterville Valley, Ragged Mountain, Gunstock, Berkshire East, Jiminy Peak, Butternut
+
+再远一些：Killington Resort
