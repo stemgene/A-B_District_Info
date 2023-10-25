@@ -31,3 +31,9 @@
 |Music|AB friends of music | https://abfom.org/  | | 
 |Music|Groton Hill | https://grotonhill.org/tickets/  |"有专门针对五六岁孩子的入门启蒙和summer camp, 每年有两次free lesson" | 
 |Music|marching band summer camp |  | "建议八年级升九年级的家长鼓励小孩参加,培养荣誉感"| 
+
+### Skiing & Snowboarding
+
+一个半小时以内：Ski Ward, Wachusett, Pats Peak, Crotched Mountain
+
+两个半小时：Sunapee, Loon, Waterville Valley, Ragged Mountain, Gunstock
