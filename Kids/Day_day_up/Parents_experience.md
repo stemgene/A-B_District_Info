@@ -153,3 +153,11 @@ K-4年级怎么学，最简单家长每天晚上陪着孩子数学做半小时�
 ### 申校准备
 
 [哈佛大学披露的11个申请案例的初步分析](https://mp.weixin.qq.com/s/Kb34vS4_sWXjbZnTX6wlSQ)
+
+[10 Successful Harvard Application](10 Successful Harvard Application.md)
+
+#### 申请学校的系统Scoir和common app
+
+scoir最好的一点是积累大数据，从21届到现在每年AB申请的数据。所以只要AB的学生keep使用，这个数据就更有统计意义，为后面的学弟学妹造福。可以做很多research和填写信息。个人感觉Scoir上的Scattergrams非常有用，可以比较一下自己孩子的情况和学校的录取情况，方便选学校。
+
+申请时大部分学校用的是Common App，不过它只在申请之前open，但应该可以把Scoir上的信息copy过去。
