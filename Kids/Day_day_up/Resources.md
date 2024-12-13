@@ -50,6 +50,10 @@ audible
 
 提高词汇量的wordly wise 3000。要买纸质书+答案书。粉色这本是单独的。黄色是书，白色是答案。第四版比第三版简单。以前的第二版更难。一般从自己孩子所在年级买起就好，比如你的孩子4年级，你就从4年级开始买起开始做。
 
+### Environmental Science AP
+
+[AP Central: AP Environmental Science](https://apcentral.collegeboard.org/courses/ap-environmental-science)
+
 ### Physics
 
 AP Physics 1: Algebra-based
